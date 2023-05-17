@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat e Samuel Leutner Ferreira :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por <a href="https://github.com/SamuelLeutner" target="_blank"> Samuel Leutner</a> ©
