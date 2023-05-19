@@ -21,10 +21,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 ## Preview 👨‍💻
 <p align="center">
   <h1>Dark Theme</h1>
-    <img alt="Projeto DevLinks" src="https://github.com/SamuelLeutner/DevLinks/assets/103613009/65f3e643-61ce-468d-9700-2fa3a4eab4c1">
+  <img alt="Preview Dark Theme" src="https://github.com/SamuelLeutner/DevLinks/assets/103613009/008a16d9-a370-4f0b-afe6-d033e5b89325" align="center">
   <br/>
   <h1>Light Theme</h1>
-  <img alt="Projeto DevLinks" src="https://github.com/SamuelLeutner/DevLinks/assets/103613009/008a16d9-a370-4f0b-afe6-d033e5b89325">
+    <img alt="Preview Light Theme" src="https://github.com/SamuelLeutner/DevLinks/assets/103613009/65f3e643-61ce-468d-9700-2fa3a4eab4c1" align="center">
 </p>
 
 ## 🚀 Tecnologias
